@@ -1,0 +1,41 @@
+.picked {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: 120px;
+}
+
+.pickButton {
+  width: fit-content;
+  height: fit-content;
+  margin-left: 40px;
+  /* margin: auto; */
+  display: flex;
+}
+
+.title {
+  text-align: center;
+  margin: 30px;
+}
+
+.pickMovie {
+  display: block;
+  align-items: center;
+  text-align: center;
+}
+
+.notPicked {
+  /* display: flex;
+  align-items: center;
+  text-align: center; */
+}
+
+/* button {
+  background-color: #ed6a5a;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  color: white;
+} */
